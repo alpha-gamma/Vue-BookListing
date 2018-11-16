@@ -1,0 +1,10 @@
+{
+    "name": "vue-demo-booklisting",
+    "version": "1.0.0",
+    "description": "demo app created using vue.js",
+    "author": "aakashgoel",
+    "private": true,
+    "scripts": {
+        "postinstall": "npm install express"
+    }
+}
